@@ -23,7 +23,7 @@ public class Test1 {
 		Thread.sleep(5000);
 		System.out.println("google");
 		driver.close();
-		Thread.sleep(5000);
+		
 
 
 	}
